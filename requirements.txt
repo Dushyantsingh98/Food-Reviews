@@ -3,7 +3,6 @@ flask
 numpy
 scikit-learn
 spacy
-string
 gunicorn
 joblib
 nltk
