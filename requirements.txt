@@ -6,4 +6,3 @@ spacy
 gunicorn
 joblib
 nltk
-unicodedata
