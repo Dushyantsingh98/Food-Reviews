@@ -1,0 +1,13 @@
+pandas
+flask
+numpy
+scikit-learn
+spacy
+string
+gunicorn
+joblib
+nltk
+string
+re
+nltk.wordnet
+unicodedata
