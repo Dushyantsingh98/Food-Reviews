@@ -7,7 +7,6 @@ string
 gunicorn
 joblib
 nltk
-string
 re
 nltk.wordnet
 unicodedata
