@@ -6,6 +6,5 @@ spacy
 gunicorn
 joblib
 nltk
-re
 nltk.wordnet
 unicodedata
